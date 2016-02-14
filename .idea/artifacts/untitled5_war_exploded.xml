@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="untitled5:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/untitled5_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="untitled5/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="untitled5" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="aopalliance-1.0" />
+          <element id="library" level="project" name="Java EE 6" />
+          <element id="library" level="project" name="antlr-2.7.7" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
